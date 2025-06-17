@@ -608,7 +608,7 @@ export default function PropuestaComercial() {
             <div className="text-center">
               <h4 className="text-lg font-bold text-white mb-4">Contacto</h4>
               <p className="text-gray-400 mb-2">📧 jjimenez@symplex.com.co</p>
-              <p className="text-gray-400 mb-2">📱 +57 300 763 0769</p>
+              <p className="text-gray-400 mb-2">📱 +57 318 045 0109</p>
               <p className="text-gray-400">🏢 Bucaramanga, Colombia</p>
             </div>
 
